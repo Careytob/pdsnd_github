@@ -11,6 +11,10 @@ Files used
 Bikeshare.py
 QUERY
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits:
+Richard Kalehoff
+https://github.com/udacity/course-git-blog-project
+https://stackoverflow.com
+
+
 

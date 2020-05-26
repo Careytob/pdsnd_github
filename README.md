@@ -14,22 +14,18 @@ In this project user have the opportunity to explore US Bikeshare data base to d
 
 <h1>Files Used</h1>
 <ul>
-<li>
-Bikeshare.py
-QUERY
-chicago.csv
-new_york_city.csv
-washington.csv
-</li>
+<li>Bikeshare.py</li>
+<li>QUERY</li>
+<li>chicago.csv</li>
+<li>new_york_city.csv</li>
+<li>washington.csv</li>
 </ul>
 
 <h1>Credits</h1>
 <ul>
-<li>
-Richard Kalehoff
-https://github.com/udacity/course-git-blog-project
-https://stackoverflow.com
-</li>
+<li>Richard Kalehoff</li>
+<li>https://github.com/udacity/course-git-blog-project<li>
+<li>https://stackoverflow.com</li>
 </ul>
 
 

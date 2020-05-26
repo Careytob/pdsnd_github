@@ -25,7 +25,7 @@ def get_filters():
     while True:
         city = input('\nSelect from these cities to analyze; Chicago,New York City or Washington: ').lower()
         if city not in ('chicago,new york city,washington'):
-            print('This input is not correct. Please try again')
+            print('Incorrect input. Please try again')
             continue
         else:
             break
@@ -50,7 +50,7 @@ def get_filters():
                      'october',
                     'november',
                      'december'):
-            print('This input is not correct. Please try again')
+            print('Incorrect input. Please try again')
             continue
         else:
             break
@@ -69,7 +69,7 @@ def get_filters():
                      'friday',
                      'saturday',                              
                     ):
-        print('This input is not correct. Please try again')
+        print('Incorrect input. Please try again')
         continue
       else:
         break

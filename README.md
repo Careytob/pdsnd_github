@@ -24,7 +24,7 @@ In this project user have the opportunity to explore US Bikeshare data base to d
 <h1>Credits</h1>
 <ul>
 <li>Richard Kalehoff</li>
-<li>https://github.com/udacity/course-git-blog-project<li>
+<li>https://github.com/udacity/course-git-blog-project</li>
 <li>https://stackoverflow.com</li>
 </ul>
 
